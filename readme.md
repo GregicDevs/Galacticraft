@@ -1,4 +1,4 @@
-Galacticraft - GTNH
+Galacticraft - GTNH (GTSH)
 ===================
 
 DEV NOTE: Micdoodlelib is integrated
